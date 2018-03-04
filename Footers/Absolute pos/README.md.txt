@@ -1,0 +1,1 @@
+Footer with absolute position method
